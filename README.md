@@ -1,2 +1,2 @@
 # coinvana
-Created with CodeSandbox
+A crypto portfolio tracking app
